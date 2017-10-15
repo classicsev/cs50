@@ -1,7 +1,7 @@
 /*
     greedy.c
     
-    Author: Chris Anders, chris@hell-labs.de
+    Author: Eddy March. classic.sev33@gmail.com
     
     This file is a solution of the greedy algorithm problem from
     pset1 of CS50.
